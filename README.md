@@ -1,8 +1,15 @@
 # 12 Factors
 
-## Definition
+[12 Factors] é uma metodologia para construir web Apps/Software Como Serviços (SaaS)
 
-[12 Factors]
+
+- Formatos declarativos para automatizar a configuração inicial
+- Contrato claro com o sistema operacional que o suporta
+- Portabilidade máxima entre ambientes que o executem
+- Implantação em modernas plataformas em nuvem
+- Minimizam a divergência entre desenvolvimento e produção
+- Implantação contínua para máxima agilidade;
+- Escalar sem significativas mudanças em ferramentas, arquiteturas, ou práticas de desenvolvimento
 
 
 ## Languages
