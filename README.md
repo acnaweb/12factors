@@ -1,8 +1,11 @@
 # 12 Factors
 
-### Definition
+## Definition
 
 [12 Factors]
+
+
+## Languages
 
 ### Java: Factors and Tools
 
@@ -24,7 +27,7 @@
 | 11. Logs |[SLF4J] + [Fluentd] + [Elasticsearch] + [Kibana] |
 | 12. Admin Processes | 
 
-### References
+## References
 
 [12 Factors in Java]
 
