@@ -116,7 +116,11 @@ Use [Workers](https://developer.mozilla.org/pt-BR/docs/Web/API/Worker).
 
 Save history
 
-## Languages
+## Languages/Clouds
+
+### GCP: Factors and Tools
+
+- https://cloud.google.com/architecture/twelve-factor-app-development-on-gcp
 
 ### Java: Factors and Tools
 
